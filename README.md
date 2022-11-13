@@ -29,7 +29,7 @@ THEN I find that the app passes reducers to a Redux store instead of using the C
 
 ## Screenshot
 
-![image](https://github.com/tornicke/book-search-engine/blob/ef12327c0f1f1c8079d267f361dbdb39998fd016/images/Screenshot-Book-Search-Engine.png)
+![image](./images/Screenshot-redux-store.png)
 
 ## Required URLs
 
