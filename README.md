@@ -33,6 +33,6 @@ THEN I find that the app passes reducers to a Redux store instead of using the C
 
 ## Required URLs
 
-[Heroku deployment URL](https://salty-fortress-09368.herokuapp.com/)
+[Heroku deployment URL](https://redux-store-7.herokuapp.com/)
 
 [GitHub repository URL](https://github.com/tornicke/redux-store/)
